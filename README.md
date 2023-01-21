@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 ### Introduction
-My name is Salvador Guzman and I am an avid consumer of information.
+My name is Salvador Guzman and I am an avid consumer of information. I plan to master all trades and knowledge before my death. I will prove myself to be the most intelligent creature to ever exist. Let the following be a testament to that effort.
 
 ### Activities
-I do just about everything. And if I haven't started yet, I will soon.
+I do just about everything. And if I haven't started yet, I will soon. 
 #### Books
 - 📚 I (read)[https://github.com/sguzman/books-i-read] a lot
 - 📒 I track my reading schedule on [GoodReads](https://www.goodreads.com/user/show/58613987-salvador-guzman).
