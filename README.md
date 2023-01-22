@@ -9,7 +9,7 @@ My name is Salvador Guzman and I am an avid consumer of information. I plan to m
 I do just about everything. And if I haven't started yet, I will soon.
 
 #### Books
-- 📚 I (read)[https://github.com/sguzman/books-i-read] a lot
+- 📚 I [read](https://github.com/sguzman/books-i-read) a lot
 - 📒 I track my reading schedule on [GoodReads](https://www.goodreads.com/user/show/58613987-salvador-guzman).
 
 ##### Reading Progress
@@ -19,10 +19,10 @@ I do just about everything. And if I haven't started yet, I will soon.
 - 🧠 I read over [62](https://www.goodreads.com/user_challenges/24301858) books in 2020.
 
 #### Computers
-- 🔭 I am an (avid)[https://github.com/sguzman] programmer.
-- 📊 (I)[https://github.com/sguzman/wolfram-data-repo] (love)[https://github.com/sguzman/harvard-atlas-data] collecting data.
-- 🌱 I track my (installed)[https://github.com/sguzman/package-list] packages.
-- ⚡ I (experiment)[https://nixos.org/] with linux and linux based distros.
+- 🔭 I am an [avid](https://github.com/sguzman) programmer.
+- 📊 [I](https://github.com/sguzman/wolfram-data-repo) [love](https://github.com/sguzman/harvard-atlas-data) collecting data.
+- 🌱 I track my [installed](https://github.com/sguzman/package-list) packages.
+- ⚡ I [experiment](https://nixos.org/) with linux and linux based distros.
 - 🦞 I love [Rust](https://www.rust-lang.org/)!
 - 🧪 I want a [Rust](https://www.redox-os.org/) OS!
 
@@ -52,3 +52,5 @@ I do just about everything. And if I haven't started yet, I will soon.
 8. [The House of Morgan: An American Banking Dynasty and the Rise of Modern Finance](https://www.goodreads.com/book/show/16131.The_House_of_Morgan)
 9. [The End of History and the Last Man](https://www.goodreads.com/book/show/57981.The_End_of_History_and_the_Last_Man)
 10. [The Library of Babel](https://www.goodreads.com/book/show/172366.The_Library_of_Babel)
+
+### Favorite Quotes
