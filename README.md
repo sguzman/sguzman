@@ -1,4 +1,61 @@
-### Hi there 👋
+# Hi there
+
+![Salvador's GitHub stats](https://github-readme-stats.vercel.app/api?username=sguzman&show_icons=true&theme=radical)
+![Salvador's Github More Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sguzman&layout=compact&langs_count=10&theme=radical)
+
+<div style="display: inline_block" align="center"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/markdown/markdown-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/latex/latex-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/vim/vim-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/vscode/vscode-plain.svg">
+</div>
+
+<div style="display: inline_block" align="center"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/denojs/denojs-original.svg">
+</div>
+
+<div style="display: inline_block" align="center"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/rust/rust-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/haskell/haskell-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/scala/scala-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/python/python-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/go/go-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/lua/lua-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/zig/zig-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/cplusplus/cplusplus-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/java/java-plain.svg">
+</div>
+
+<div style="display: inline_block" align="center"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/linux/linux-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/nixos/nixos-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/docker/docker-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/prometheus/prometheus-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/postgresql/postgresql-plain.svg">
+</div>
+
+<div style="display: inline_block" align="center"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/photoshop/photoshop-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/illustrator/illustrator-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/premierepro/premierepro-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/premierepro/premierepro-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/aftereffects/aftereffects-plain.svg">
+</div>
+
+
+![](https://komarev.com/ghpvc/?username=sguzman)
+
+<div style="display: inline_block" align="center"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/linkedin/linkedin-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/facebook/facebook-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/sguzman/devicon/master/icons/twitter/twitter-original.svg">
+</div>
+
+---
 
 ### Introduction
 My name is Salvador Guzman and I am an avid consumer of information. I plan to master all trades and knowledge before my death. I will prove myself to be the most intelligent creature to ever exist. Let the following be a testament to my effort.
