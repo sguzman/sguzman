@@ -68,6 +68,7 @@ I do just about everything. And if I haven't started yet, I will soon.
 #### Books
 - 📚 I [read](https://github.com/sguzman/books-i-read) a lot
 - 📒 I track my reading schedule on [GoodReads](https://www.goodreads.com/user/show/58613987-salvador-guzman).
+- 📝 I use [flashcards](https://github.com/sguzman/english-flashcards-vocage) to keep my vocabulary inventory as large as possible.
 
 ##### Reading Progress
 - 🧠 I read over [11](https://www.goodreads.com/user_challenges/39128783) books in 2023 (so far).
