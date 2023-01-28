@@ -71,10 +71,10 @@ I do just about everything. And if I haven't started yet, I will soon.
 - 📝 I use [flashcards](https://github.com/sguzman/english-flashcards-vocage) to keep my vocabulary inventory as large as possible.
 
 ##### Reading Progress
-- 🧠 I read over [11](https://www.goodreads.com/user_challenges/39128783) books in 2023 (so far).
-- 🧠 I read over [229](https://www.goodreads.com/user_challenges/33451118) books in 2022.
-- 🧠 I read over [131](https://www.goodreads.com/user_challenges/28170883) books in 2021.
-- 🧠 I read over [62](https://www.goodreads.com/user_challenges/24301858) books in 2020.
+- 🧠 I read over [14](https://www.goodreads.com/user_challenges/39128783) books (4927 pages) in 2023 (so far).
+- 🧠 I read over [229](https://www.goodreads.com/user_challenges/33451118) books (40640 pages) in 2022.
+- 🧠 I read over [131](https://www.goodreads.com/user_challenges/28170883) books (34747 pages) in 2021.
+- 🧠 I read over [62](https://www.goodreads.com/user_challenges/24301858) books (17053 pages) in 2020.
 
 #### Computers
 - 🔭 I am an [avid](https://github.com/sguzman) programmer.
