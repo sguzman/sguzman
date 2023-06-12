@@ -102,7 +102,7 @@ I do just about everything. And if I haven't started yet, I will soon.
 ### Book Recommendations
 
 #### Top 10 Fiction
-1. [Harry Potter and the Sorcerer's Stone](https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone)
+1. [Dune](https://www.goodreads.com/book/show/44767458-dune)
 2. [Dune Messiah](https://www.goodreads.com/book/show/44492285-dune-messiah?ref=nav_sb_ss_1_10)
 3. [Lord of the Flies](https://www.goodreads.com/book/show/6193662-lord-of-the-flies)
 4. [The Catcher in the Rye](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye)
@@ -115,12 +115,12 @@ I do just about everything. And if I haven't started yet, I will soon.
 
 #### Top 10 NonFiction
 1. [Foretelling the End of Capitalism: Intellectual Misadventures Since Karl Marx](https://www.goodreads.com/book/show/51579648-foretelling-the-end-of-capitalism)
-2. [The Diary of a Young Girl](https://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl)
-3. [The Rise and Fall of the Third Reich: A History of Nazi Germany](https://www.goodreads.com/book/show/767171.The_Rise_and_Fall_of_the_Third_Reich)
-4. [Jerusalem](https://www.goodreads.com/book/show/9477628-jerusalem)
-5. [The House of Morgan: An American Banking Dynasty and the Rise of Modern Finance](https://www.goodreads.com/book/show/16131.The_House_of_Morgan)
+2. [Sociobiology: The New Synthesis](https://www.goodreads.com/book/show/183819.Sociobiology)
+3. [The_Wages_of_Destruction](https://www.goodreads.com/book/show/711592.The_Wages_of_Destruction)
+4. [Ripe for Revolution: Building Socialism in the Third World](https://www.goodreads.com/book/show/58082497-ripe-for-revolution)
+5. [Hollywood Traitors: Blacklisted Screenwriters - Agents of Stalin, Allies of Hitler](https://www.goodreads.com/book/show/18210994-hollywood-traitors)
 6. [The End of History and the Last Man](https://www.goodreads.com/book/show/57981.The_End_of_History_and_the_Last_Man)
-7. [Capital in the Twenty-First Century](https://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century)
+7. [A Failed Empire: The Soviet Union in the Cold War from Stalin to Gorbachev](https://www.goodreads.com/book/show/1991046.A_Failed_Empire)
 8. [Industrial Society and Its Future](https://www.goodreads.com/book/show/225468.Industrial_Society_and_Its_Future)
 9. [The Battle for Spain: The Spanish Civil War 1936-1939](https://www.goodreads.com/book/show/42660.The_Battle_for_Spain)
 10. [Schizophrenia: The Sacred Symbol of Psychiatry](https://www.goodreads.com/book/show/813205.Schizophrenia)
