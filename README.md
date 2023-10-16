@@ -87,7 +87,7 @@ I do just about everything. And if I haven't started yet, I will soon.
 #### Math
 - ➕ I am a [mathematical](https://github.com/sguzman/MathematicaMathFun) entreupreneur.
 - 🔢 I endeavor to make [novel](https://github.com/sguzman/collatz-junk) math contributions in my lifetime.
-- 🎲 I want to make math [intelligeble](https://www.cde.ca.gov/be/st/ss/documents/ccssmathstandardaug2013.pdf) to everyone.
+- 🎲 I want to make math [intelligible](https://www.cde.ca.gov/be/st/ss/documents/ccssmathstandardaug2013.pdf) to everyone.
 
 #### Law Studies
 - 👨‍⚖️ I [study](https://github.com/sguzman/us-code-stash) how the law works.
