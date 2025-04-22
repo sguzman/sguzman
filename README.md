@@ -121,7 +121,6 @@ I’m always eager to explore new ideas, collaborations, or open discussions:
 
 Thank you for stopping by—let’s push the frontiers of knowledge together! 🌐✨
 
-
 ## Some links to my ongoing research
 
 I'm a big fan of brainstorming out short isolated thought. I have made repositories of my work.
