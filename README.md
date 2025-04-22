@@ -120,3 +120,13 @@ I’m always eager to explore new ideas, collaborations, or open discussions:
 - 🔗 **LinkedIn:** `...`
 
 Thank you for stopping by—let’s push the frontiers of knowledge together! 🌐✨
+
+
+## Some links to my ongoing research
+
+I'm a big fan of brainstorming out short isolated thought. I have made repositories of my work.
+
+- [Math](https://github.com/sguzman/articles/blob/main/notes/math.md)
+- [Computer Science](https://github.com/sguzman/articles/blob/main/notes/cs.md)
+- [To Research](https://github.com/sguzman/articles/blob/main/notes/to-research.md)
+- [Ideas to develop](https://github.com/sguzman/articles/blob/main/notes/treatise.md)
