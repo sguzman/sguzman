@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Salvador Guzman!
 
-**Mathematician | Systems Engineer | Polyglot Enthusiast | Theoretical Innovator | Rustacean | Pokemon Lover**
+**Mathematician | Systems Engineer | Polyglot Enthusiast | Theoretical Innovator | Rustacean | Pokemon Lover | Card Game Lover**
 
 ---
 
