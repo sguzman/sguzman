@@ -3,6 +3,10 @@
 **Mathematician | Systems Engineer | Polyglot Enthusiast | Theoretical Innovator | Rustacean | Pokemon Lover | Card Game Lover**
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=gruvbox&rank=SSS,SS,S&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sguzman&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sguzman&layout=compact&theme=gruvbox)
+
 
 Welcome to my corner of GitHub, where advanced mathematics meets operating‑system ingenuity, and where a passion for languages fuels creative problem‑solving.
 
