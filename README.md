@@ -1,135 +1,124 @@
 # 👋 Hi, I'm Salvador Guzman!
 
-**Mathematician | Systems Engineer | Polyglot Enthusiast | Theoretical Innovator | Rustacean | Pokemon Lover | Card Game Lover**
+🌌 **Mathematician** | 🖥️ **Systems Engineer** | 🗣️ **Polyglot Enthusiast** | 🔭 **Theoretical Innovator** | 🦀 **Rustacean** | 🎮 **Pokémon Fanatic** | 🃏 **Card Game Lover**
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=gruvbox&rank=SSS,SS,S&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sguzman&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sguzman&layout=compact&theme=gruvbox)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sguzman\&theme=gruvbox\&rank=SSS,SS,S\&no-frame=true\&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-Welcome to my corner of GitHub, where advanced mathematics meets operating‑system ingenuity, and where a passion for languages fuels creative problem‑solving.
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sguzman\&show_icons=true\&theme=gruvbox)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sguzman\&layout=compact\&theme=gruvbox)
+
+---
 
 ## 🚀 Professional Summary
 
-I fuse deep theoretical insight with hands‑on engineering to shape the future of computation and knowledge. From pioneering custom OS kernels in Rust to exploring symbolic compression and SKI combinators, my work bridges abstract mathematics and scalable software systems. As a lifelong polyglot and voracious reader, I build tools that learn and evolve alongside human understanding.
+I blend deep theoretical mathematics 🎓 with practical systems engineering ⚙️, creating advanced computational tools and custom operating systems. My passion for languages 🌍 and reading 📚 drives innovative software solutions that grow with human knowledge.
 
 ---
 
-## 💻 Technical & Software Expertise
+## 🛠️ Technical & Software Expertise
 
-| Domain                         | Skills & Technologies                                                                                              |
-|--------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| **Programming Languages**       | 🚧 **Rust**, 🧑‍💻 **Haskell**, ⚙️ **Scala**, 🐍 **Python**, ✨ **TypeScript**, `V` **V lang**                                                      |
-| **Systems & OS Engineering**    | Linux Kernel Development (Rust, DKMS), Theseus OS experiments, NixOS, Docker Compose, Kubernetes                     |
-| **AI & Knowledge Systems**      | LLM fine‑tuning & inference (HuggingFace, Ollama, RAG), Semantic embeddings, Retrieval‑Augmented Generation           |
-| **Infrastructure & Observability** | Grafana, Prometheus, Loki, CoreDNS, Varnish Cache, Secure VPN (ExpressVPN & Gluetun), GPU acceleration                |
+| Category                              | Skills & Technologies                                                                                 |
+| ------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| 🧑‍💻 **Programming Languages**       | 🦀 Rust, 🐍 Python, 📐 Haskell, 🌟 Scala, 🌀 TypeScript, 🔧 V lang                                    |
+| 💽 **Systems & OS Engineering**       | 🐧 Linux Kernel (Rust, DKMS), 📦 NixOS, 🐳 Docker Compose, ☸️ Kubernetes, Theseus OS                  |
+| 🤖 **AI & Knowledge Systems**         | 🧠 LLM fine‑tuning, 📚 Retrieval-Augmented Generation, 🔗 Semantic embeddings                         |
+| 📡 **Infrastructure & Observability** | 📈 Grafana, 📉 Prometheus, 📊 Loki, 🛰️ CoreDNS, 🚦 Varnish Cache, 🔐 ExpressVPN, 🚀 GPU Acceleration |
 
 ---
 
-## 🌐 Linguistic Prowess & Language Learning
+## 🌎 Linguistic Prowess & Language Learning
 
-I firmly believe that mastering languages sharpens analytical thinking and cultural empathy.
+I believe languages unlock deeper understanding 🌐 and creativity 🎨.
 
-- **Duolingo Achievements:** [its_me_sguzman](https://www.duolingo.com/profile/its_me_sguzman) — currently learning Japanese, Indonesian, ASL, and more.
-- **Fluent & Advanced:** English, Spanish (native)
-- **Readable:** French, German, Dutch, Italian, Portuguese
-- **Learning:** Japanese, ASL, Indonesian, Egyptian Arabic, Russian, Chinese, Hebrew
-- **Linguistic Projects:**
-  - Phonological mnemonics and kinesthetic maps (ASL for Greek letters)
-  - Automated subtitle parsing → Anki flashcard pipelines
-  - Ontology‑driven multilingual glossaries (RDF, Wikidata)
+* 🎖️ [Duolingo](https://www.duolingo.com/profile/its_me_sguzman): Japanese 🇯🇵, Indonesian 🇮🇩, ASL 🤟, and more.
+* 💬 **Fluent:** English 🇺🇸, Spanish 🇲🇽 (Native)
+* 📖 **Readable:** French 🇫🇷, German 🇩🇪, Dutch 🇳🇱, Italian 🇮🇹, Portuguese 🇵🇹
+* 📚 **Learning:** Japanese 🇯🇵, ASL 🤟, Indonesian 🇮🇩, Egyptian Arabic 🇪🇬, Russian 🇷🇺, Chinese 🇨🇳, Hebrew 🇮🇱
+* 🗃️ **Projects:** Phonological mnemonics, Subtitle→Anki pipelines, Ontological glossaries
 
 ---
 
 ## 🔬 Research & Theoretical Pursuits
 
-My research spans pure theory to speculative frameworks:
+Exploring the edges of mathematics and theoretical frameworks:
 
-- **Symbolic Compression & Combinatory Logic:** Minimal expression of computation via SKI calculus and Church numerals.
-- **Operator Theory & Curvature:** Treating curvature as a computational primitive, linking geometry with information theory.
-- **Runtime Algebra & Process Semantics:** Defining algebraic operations for OS process mobility, reproducibility, and morphism.
-- **Topology & Homotopy Dynamics:** Homotopical function iteration, ambient space analysis of connectivity and turbulence.
-- **Mathematical UI Metaphors:** Interactive scrollable coordinate systems, algebraic explorer interfaces.
+* 🧩 Symbolic Compression (SKI combinators, Church numerals)
+* 📏 Operator Theory & Curvature (Geometry meets computation)
+* ⚗️ Runtime Algebra (Process semantics and OS reproducibility)
+* 🌌 Topology & Homotopy (Function iteration and spatial analysis)
+* 🎛️ Mathematical UI metaphors (Interactive visualization tools)
 
 ---
 
 ## 📐 Dedicated Mathematics Research
 
-- **Convolution & Integral Transforms:** Convolution with Gaussian kernels (`e^{-x^2}`) as mathematical cursors, nested Riemann sums, and novel integral transforms for orbit analysis.
-- **Curvature-Based Computation:** Treating curvature as an information metric and computational primitive, linking geometric bending with semantic complexity.
-- **Operator Theory & Collatz Analysis:** Leveraging operator-theoretic frameworks and fractional iterators to study Collatz orbits and fixed-point dynamics.
-- **Fractional & Holomorphic Function Application:** Generalized function iteration as semigroup operators; decomposing real functions into holomorphic scaling and rotation components.
-- **Alternative Geometric Representations:** Dot-product-based coordinate systems, boolean matrix curves, and algebraic operator sequences as spatial encodings.
-- **Topological Dynamics & Homotopy:** Linear homotopy framed as fractional application, ambient space connectivity, homology preservation under turbulent flows.
+Deep dives into complex theoretical domains:
+
+* 🔢 Convolution & Integral Transforms (Gaussian kernels, novel analysis)
+* 🌀 Curvature as computation (Geometric-semantic link)
+* 📈 Operator Theory & Collatz dynamics (Fixed-point analysis)
+* 🔍 Fractional & Holomorphic Functions (Function decomposition)
+* 📊 Alternative Geometry (Dot-product systems, algebraic spatial encodings)
+* 🌐 Topological Dynamics & Homotopy (Connectivity and turbulence)
 
 ---
 
-## 🛠️ Selected Open Source & Personal Projects
+## 🚧 Open Source & Personal Projects
 
-1. **Rust OS Kernel Modules**  
-   Customized HID drivers and proof‑of‑concept microkernels in Rust, exploring reproducible runtime states.
-
-2. **Combinatory Logic Library (Haskell)**  
-   SKI combinator calculus implementation with numeric encodings, fixed‑point types, and macro‑driven parsers.
-
-3. **Semantic Knowledge Graph Pipeline**  
-   Automated RDF ingestion from RSS, arXiv, and books, enriched with Basic Formal Ontology and Wikidata links.
-
-4. **Interactive Math UI Prototypes**  
-   React + D3 tools for scrolling R² function viewers, holographic equation maps, and curvature visualizers.
+* 🦀 **Rust OS Kernel Modules:** HID drivers, microkernel experiments
+* 🧮 **Haskell SKI Library:** Combinatory logic implementation
+* 🔗 **Semantic Knowledge Graph:** RDF/Wikidata automated ingestion
+* 🎨 **Interactive Math UI:** React + D3 visualizations
 
 ---
 
 ## 📖 Reading & Thought
 
-I devour books to fuel ideas and cross‑disciplinary breakthroughs, with a particular passion for economic and political history, alongside mathematics and philosophy.
+📚 [Goodreads](https://www.goodreads.com/user/show/58613987-salvador-guzman): 50+ books/year across diverse fields.
 
-- **Goodreads:** [Salvador Guzman](https://www.goodreads.com/user/show/58613987-salvador-guzman) — Typically 50+ books/year spanning multiple fields.
+📌 **Focus Areas:**
 
-- **Focus Areas:**
-  - **Economic & Political History:** Deep dives into socioeconomic transformations and power dynamics.
-  - **Mathematics & Theory:** From operator theory to topology and combinatory logic.
-  - **Philosophy & Ethics:** Exploring the foundations of knowledge and epistemic frameworks.
+* 🏛️ Economic & Political History
+* 📏 Mathematics & Theory
+* 🌠 Philosophy & Ethics
 
-- **Influential Reads:**
-  1. *Capital in the Twenty-First Century* by Thomas Piketty — Analyzing wealth concentration and distribution.
-  2. *The Wealth of Nations* by Adam Smith — Cornerstone of modern economic thought.
-  3. *The Rise and Fall of the Third Reich* by William L. Shirer — Comprehensive political history.
-  4. *Why Nations Fail* by Daron Acemoglu & James A. Robinson — Institutions and prosperity.
-  5. *Sapiens: A Brief History of Humankind* by Yuval Noah Harari — Big‑picture cultural evolution.
-  6. *Guns, Germs, and Steel* by Jared Diamond — Environmental determinism and societal development.
+📔 **Influential Reads:**
 
-- **Reading Projects:**
-  - Simplified classics in Basic English and RDF‑encoded ontologies of key works.
-  - Audio‑synchronized EPUB readers and subtitle‑to‑Anki pipelines for language immersion.
+* 💸 *Capital in the Twenty-First Century* – Thomas Piketty
+* ⚖️ *The Wealth of Nations* – Adam Smith
+* 🗺️ *Why Nations Fail* – Acemoglu & Robinson
+* 📖 *Sapiens* – Yuval Noah Harari
+* 🌍 *Guns, Germs, and Steel* – Jared Diamond
 
 ---
 
 ## 🌟 Community, Talks & Writing
 
-- **Open Source:** Contributor to Rust ecosystem (Newsboat rewrite, Bevy engine plugins), Linux kernel modules, and combinatory‑logic libraries.
-- **Speaking & Workshops:** Invited talks on OS design in Rust, symbolic computation, and language acquisition strategies.
-- **Publications & Blogs:** Articles on operator theory in software, topology‑driven UIs, and the role of curvature in computation.
+* 🌐 Open Source Contributor (Rust, Linux kernel, combinatory logic)
+* 🎤 Talks on Rust OS design, symbolic computation, language strategies
+* ✒️ Publications on computational operator theory, mathematical UIs
 
 ---
 
 ## 📬 Connect & Collaborate
 
-I’m always eager to explore new ideas, collaborations, or open discussions:
+Let’s innovate together! 🚀✨
 
-- 📧 **Email:** `...`
-- 🌐 **Website/Portfolio:** `...`
-- 🔬 **Blog:** [Prose and Con men)(https://sguzman.github.io/)
-- 🔗 **LinkedIn:** `...`
+* 📧 Email: `...`
+* 🌐 Portfolio: `...`
+* 📘 Blog: [Prose and Con Men](https://sguzman.github.io/)
+* 🔗 LinkedIn: `...`
 
-Thank you for stopping by—let’s push the frontiers of knowledge together! 🌐✨
+---
 
-## Some links to my ongoing research
+📂 **My Research Repositories:**
 
-I'm a big fan of brainstorming out short isolated thought. I have made repositories of my work.
+* 📊 [Math Notes](https://github.com/sguzman/articles/blob/main/notes/math.md)
+* 💻 [Computer Science](https://github.com/sguzman/articles/blob/main/notes/cs.md)
+* 📌 [To Research](https://github.com/sguzman/articles/blob/main/notes/to-research.md)
+* 💡 [Ideas to Develop](https://github.com/sguzman/articles/blob/main/notes/treatise.md)
 
-- [Math](https://github.com/sguzman/articles/blob/main/notes/math.md)
-- [Computer Science](https://github.com/sguzman/articles/blob/main/notes/cs.md)
-- [To Research](https://github.com/sguzman/articles/blob/main/notes/to-research.md)
-- [Ideas to develop](https://github.com/sguzman/articles/blob/main/notes/treatise.md)
+🎉 Thank you for visiting! Let’s push knowledge boundaries together! 🚀🌌
