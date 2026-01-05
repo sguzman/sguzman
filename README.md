@@ -65,7 +65,7 @@ Deep dives into complex theoretical domains:
 
 ## 📖 Reading & Thought
 
-📚 [Goodreads](https://www.goodreads.com/user/show/58613987-salvador-guzman): 50+ books/year across diverse fields.
+📚 [Goodreads](https://www.goodreads.com/user/show/58613987-salvador-guzman)
 
 📌 **Focus Areas:**
 
