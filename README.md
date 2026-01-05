@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Salvador Guzman!
 
-🌌 **Mathematician** | 🖥️ **Systems Engineer** | 🗣️ **Polyglot Enthusiast** | 🔭 **Theoretical Innovator** | 🦀 **Rustacean** | 🎮 **Pokémon Fanatic** | 🃏 **Card Game Lover**
+🌌 **Mathematician** | 🖥️ **Systems Engineer** | 🔭 **Theoretical Innovator** | 🦀 **Rustacean** | 🎮 **Pokémon Fanatic** | 🃏 **Card Game Lover**
 
 ---
 
@@ -14,7 +14,7 @@
 
 ## 🚀 Professional Summary
 
-I blend deep theoretical mathematics 🎓 with practical systems engineering ⚙️, creating advanced computational tools and custom operating systems. My passion for languages 🌍 and reading 📚 drives innovative software solutions that grow with human knowledge.
+I blend deep theoretical mathematics 🎓 with practical systems engineering ⚙️, creating advanced computational tools and custom operating systems. My passion for reading 📚 drives innovative software solutions that grow with human knowledge.
 
 ---
 
@@ -26,18 +26,6 @@ I blend deep theoretical mathematics 🎓 with practical systems engineering ⚙
 | 💽 **Systems & OS Engineering**       | 🐧 Linux Kernel (Rust, DKMS), 📦 NixOS, 🐳 Docker Compose, ☸️ Kubernetes, Theseus OS                  |
 | 🤖 **AI & Knowledge Systems**         | 🧠 LLM fine‑tuning, 📚 Retrieval-Augmented Generation, 🔗 Semantic embeddings                         |
 | 📡 **Infrastructure & Observability** | 📈 Grafana, 📉 Prometheus, 📊 Loki, 🛰️ CoreDNS, 🚦 Varnish Cache, 🔐 ExpressVPN, 🚀 GPU Acceleration |
-
----
-
-## 🌎 Linguistic Prowess & Language Learning
-
-I believe languages unlock deeper understanding 🌐 and creativity 🎨.
-
-* 🎖️ [Duolingo](https://www.duolingo.com/profile/its_me_sguzman): Japanese 🇯🇵, Indonesian 🇮🇩, ASL 🤟, and more.
-* 💬 **Fluent:** English 🇺🇸, Spanish 🇲🇽 (Native)
-* 📖 **Readable:** French 🇫🇷, German 🇩🇪, Dutch 🇳🇱, Italian 🇮🇹, Portuguese 🇵🇹
-* 📚 **Learning:** Japanese 🇯🇵, ASL 🤟, Indonesian 🇮🇩, Egyptian Arabic 🇪🇬, Russian 🇷🇺, Chinese 🇨🇳, Hebrew 🇮🇱
-* 🗃️ **Projects:** Phonological mnemonics, Subtitle→Anki pipelines, Ontological glossaries
 
 ---
 
@@ -95,14 +83,6 @@ Deep dives into complex theoretical domains:
 
 ---
 
-## 🌟 Community, Talks & Writing
-
-* 🌐 Open Source Contributor (Rust, Linux kernel, combinatory logic)
-* 🎤 Talks on Rust OS design, symbolic computation, language strategies
-* ✒️ Publications on computational operator theory, mathematical UIs
-
----
-
 ## 📬 Connect & Collaborate
 
 Let’s innovate together! 🚀✨
@@ -121,4 +101,4 @@ Let’s innovate together! 🚀✨
 * 📌 [To Research](https://github.com/sguzman/articles/blob/main/notes/to-research.md)
 * 💡 [Ideas to Develop](https://github.com/sguzman/articles/blob/main/notes/treatise.md)
 
-🎉 Thank you for visiting! Let’s push knowledge boundaries together! 🚀🌌
+🎉 Thank you for visiting! 🚀🌌
