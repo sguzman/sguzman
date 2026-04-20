@@ -4,11 +4,15 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sguzman\&theme=gruvbox\&rank=SSS,SS,S\&no-frame=true\&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<!--
+GitHub Profile Trophy is currently returning `503 DEPLOYMENT_PAUSED` from Vercel.
+Re-enable when the service is back up:
+[![trophy](https://github-profile-trophy.vercel.app/?username=sguzman&theme=gruvbox&rank=SSS,SS,S&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sguzman\&show_icons=true\&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sguzman&show_icons=true&theme=gruvbox&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sguzman\&layout=compact\&theme=gruvbox)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sguzman&layout=compact&theme=gruvbox&cache_seconds=86400)
 
 ---
 
