@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">sguzman — independent systems workshop</title>
+<desc id="desc">Dark indigo technical illustration with fine orbital diagrams and the motto: Small interfaces, large agency.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0a1020"/>
+    <stop offset=".58" stop-color="#121b2e"/>
+    <stop offset="1" stop-color="#172337"/>
+  </linearGradient>
+  <linearGradient id="mark" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#79e6ca"/>
+    <stop offset="1" stop-color="#98b6ff"/>
+  </linearGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#b7d4e8" stroke-opacity=".065" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="1200" height="330" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="330" rx="22" fill="url(#grid)"/>
+<rect x="1" y="1" width="1198" height="328" rx="21" fill="none" stroke="#abc9dc" stroke-opacity=".18"/>
+<rect x="0" y="31" width="5" height="265" fill="url(#mark)"/>
+<path d="M74 68h25" stroke="#79e6ca" stroke-width="3" stroke-linecap="round"/>
+<text x="113" y="74" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="16" font-weight="600" letter-spacing="3" fill="#79e6ca">INDEPENDENT SYSTEMS WORKSHOP</text>
+<text x="70" y="153" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="74" font-weight="750" letter-spacing="-3" fill="#f1f6ff">sguzman<tspan fill="#79e6ca">.</tspan></text>
+<text x="75" y="205" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="450" fill="#c2d1e8">Small interfaces. Large agency.</text>
+<path d="M75 242H645" stroke="#b6c9e2" stroke-opacity=".22"/>
+<text x="75" y="277" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" letter-spacing="1.1" fill="#8eb3c8">RUST</text>
+<circle cx="153" cy="272" r="2.5" fill="#f2c27c"/>
+<text x="171" y="277" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" letter-spacing="1.1" fill="#8eb3c8">LINUX / WAYLAND</text>
+<circle cx="360" cy="272" r="2.5" fill="#f2c27c"/>
+<text x="378" y="277" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" letter-spacing="1.1" fill="#8eb3c8">LOCAL-FIRST</text>
+<circle cx="529" cy="272" r="2.5" fill="#f2c27c"/>
+<text x="547" y="277" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" letter-spacing="1.1" fill="#8eb3c8">AI-NATIVE</text>
+<g fill="none" stroke="#93b3d6" stroke-opacity=".32">
+  <circle cx="1013" cy="167" r="125"/>
+  <circle cx="1013" cy="167" r="88"/>
+  <circle cx="1013" cy="167" r="47"/>
+  <path d="M855 167h310M1013 10v315M912 66l201 201M1114 66L912 268"/>
+</g>
+<g transform="translate(1013 167) rotate(-28)">
+  <ellipse rx="153" ry="65" fill="none" stroke="#79e6ca" stroke-opacity=".75" stroke-width="2"/>
+  <circle cx="151" cy="0" r="7" fill="#79e6ca"/>
+</g>
+<path d="M965 166l34 36 72-91" fill="none" stroke="url(#mark)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1013" cy="167" r="8" fill="#f2c27c"/>
+<g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#8baec3" letter-spacing="1">
+  <text x="852" y="50">01 / BUILD</text>
+  <text x="1063" y="303">OPEN SYSTEMS</text>
+</g>
+</svg>
