@@ -38,6 +38,12 @@ My projects cross disciplines, but they share a habit: **take a complicated syst
 
 I particularly enjoy the space **between** disciplines: where messy source material becomes an explicit model, where a model becomes a tool, and where a tool gives its user more agency.
 
+### Flagship research system — [Taria](./projects/taria.md)
+
+**Taria** is my private knowledge federation: an expanding network of independent research domains covering linguistics, mathematics, law, economics, philosophy, AI, biology, engineering, politics, and the arts. Each domain develops its own ontology and evidence-backed research, while the larger system supports explicit cross-disciplinary connections and derived works.
+
+**The canonical Taria repository is private and not publicly accessible.** [Read the public project overview →](./projects/taria.md)
+
 ### Selected work
 
 | | |
