@@ -18,6 +18,26 @@ I like **Rust**, native Linux applications, durable local state, inspectable beh
 
 I care about the engineering **and** the feeling of using the thing. Serious internals can still produce cozy, playful software.
 
+### Where I work
+
+My projects cross disciplines, but they share a habit: **take a complicated system, understand its structure, and make it programmable.** Software is both the thing I build and the instrument I use to investigate other fields.
+
+**Computing & engineering**
+
+- **Systems and native desktop software** — Rust, Linux/Wayland, performance-sensitive interfaces, storage, process boundaries, security, and practical developer tools.
+- **AI-native development and automation** — agent-oriented APIs, MCP interfaces, inspectable tool execution, permission models, reproducible tests, and human-in-the-loop workflows.
+- **Knowledge and data infrastructure** — ontologies, schema design, corpora, extraction pipelines, provenance, archival systems, search, and structured research data.
+- **Speech, graphics, and interactive media** — local ASR/TTS, diarization, ebook tooling, computational geometry, visualization, emulation, and playful desktop UX.
+
+**Mathematics, language & the world**
+
+- **Mathematics and formal systems** — discrete structures, symbolic computation, number theory, geometry, and constructive computational models.
+- **Linguistics and language technology** — morphology, grammar, pronunciation, phonetics, dialects, translation, textual corpora, and writing tools.
+- **History and human institutions** — law, political economy, governance, historical evidence, and the ways institutions evolve.
+- **Time and empirical systems** — calendars, historical events, elections, sports leagues, longitudinal data, and the relationship between observations and models.
+
+I particularly enjoy the space **between** disciplines: where messy source material becomes an explicit model, where a model becomes a tool, and where a tool gives its user more agency.
+
 ### Selected work
 
 | | |
