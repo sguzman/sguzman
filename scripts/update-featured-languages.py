@@ -1,24 +1,25 @@
 #!/usr/bin/env python3
-"""Build a profile language chart from selected, original project source trees.
+"""Build a language card from 100 recently pushed original public repositories.
 
-Selection follows the GitHub repositories linked from README.md. Each repository
-has equal weight so one large repository cannot dominate the result. This measures
-source files, not personally authored commits or programming proficiency.
+Each repo gets equal weight: a large repository cannot dominate the result.
+Only recognized source files count, not binaries, vendored code, or generated
+directories. This is NOT a measurement of individually authored commits.
 """
 from __future__ import annotations
 
 import json
 import os
-import re
 from collections import defaultdict
 from pathlib import Path
+from urllib.error import HTTPError
+from urllib.parse import quote
 from urllib.request import Request, urlopen
 from xml.sax.saxutils import escape
 
 OWNER = "sguzman"
 ROOT = Path(__file__).resolve().parents[1]
-README = ROOT / "README.md"
 OUTPUT = ROOT / "assets" / "featured-languages.svg"
+MAX_REPOSITORIES = 100
 
 EXTENSIONS = {
     "rs": "Rust", "py": "Python", "js": "JavaScript", "jsx": "JavaScript",
@@ -53,11 +54,33 @@ def github_json(url: str) -> dict:
     with urlopen(Request(url, headers=headers), timeout=45) as response:
         return json.load(response)
 
-def featured_repositories() -> list[str]:
-    text = README.read_text(encoding="utf-8")
-    # Only owned repositories explicitly featured in the profile are counted.
-    names = re.findall(r"https://github\.com/sguzman/([A-Za-z0-9_.-]+)", text)
-    return list(dict.fromkeys(names))
+def recent_repositories():
+    """Yield original public repos in descending order of last push.
+
+    GitHub paginates in blocks of up to 100, so keep paginating past
+    forks, archived repos, and non-code repos until we have 100 with code.
+    """
+    page = 1
+    while True:
+        url = (
+            f"https://api.github.com/users/{OWNER}/repos"
+            f"?type=owner&sort=pushed&direction=desc&per_page=100&page={page}"
+        )
+        batch = github_json(url)
+        if not batch:
+            break
+        for repo in batch:
+            if repo["fork"] or repo["archived"] or repo["private"]:
+                continue
+            if repo["name"].casefold() == OWNER.casefold():
+                # Profile README repository is not a software project.
+                continue
+            if not repo.get("default_branch"):
+                continue
+            yield repo
+        if len(batch) < 100:
+            break
+        page += 1
 
 def source_bytes(tree: dict) -> dict[str, int]:
     if tree.get("truncated"):
@@ -79,13 +102,22 @@ def source_bytes(tree: dict) -> dict[str, int]:
 def gather() -> tuple[dict[str, float], int]:
     scores: dict[str, float] = defaultdict(float)
     included = 0
-    for name in featured_repositories():
-        base = f"https://api.github.com/repos/{OWNER}/{name}"
-        repo = github_json(base)
-        if repo["fork"] or repo["archived"] or repo["private"]:
+    for repo in recent_repositories():
+        name = repo["name"]
+        base = f"https://api.github.com/repos/{OWNER}/{quote(name, safe='')}"
+        branch = quote(repo["default_branch"], safe="")
+        try:
+            tree = github_json(f"{base}/git/trees/{branch}?recursive=1")
+        except HTTPError as error:
+            if error.code in (404, 409, 422):
+                # Repositories can be deleted, renamed, or have no commits.
+                print(f"Skipping {name}: GitHub returned HTTP {error.code}")
+                continue
+            raise
+        if tree.get("truncated"):
+            # Do not treat a partial tree as a complete language breakdown.
+            print(f"Skipping {name}: GitHub truncated its source tree")
             continue
-        branch = repo["default_branch"]
-        tree = github_json(f"{base}/git/trees/{branch}?recursive=1")
         by_language = source_bytes(tree)
         total = sum(by_language.values())
         if not total:
@@ -93,8 +125,10 @@ def gather() -> tuple[dict[str, float], int]:
         included += 1
         for language, size in by_language.items():
             scores[language] += size / total
+        if included >= MAX_REPOSITORIES:
+            break
     if not included:
-        raise RuntimeError("No source files found in featured public repositories")
+        raise RuntimeError("No source files found in recent original public repositories")
     return {key: val * 100 / included for key, val in scores.items()}, included
 
 def render(scores: dict[str, float], included: int) -> str:
@@ -102,11 +136,11 @@ def render(scores: dict[str, float], included: int) -> str:
     # Percentages are percentages of equally weighted per-repository shares.
     # A tiny trailing language may be below 0.01% and show as <0.01%.
     lines = [
-        '<svg xmlns="http://www.w3.org/2000/svg" width="448" height="206" viewBox="0 0 448 206" role="img" aria-label="Languages in featured non-fork repositories">',
-        '<title>Languages in featured projects, equally weighted by repository</title>',
+        '<svg xmlns="http://www.w3.org/2000/svg" width="448" height="206" viewBox="0 0 448 206" role="img" aria-label="Languages in recently pushed original public repositories">',
+        '<title>Languages in recent original projects, equally weighted by repository</title>',
         '<rect x="0.5" y="0.5" width="447" height="205" rx="6" fill="#ffffff" stroke="#e2e5e9"/>',
-        '<text x="22" y="31" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#2675d8">Languages in featured projects</text>',
-        f'<text x="22" y="53" font-family="Arial,Helvetica,sans-serif" font-size="11" fill="#576274">{included} original repos · equal weight per repo · source only</text>',
+        '<text x="22" y="31" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#2675d8">Languages in recent projects</text>',
+        f'<text x="22" y="53" font-family="Arial,Helvetica,sans-serif" font-size="11" fill="#576274">{included} recent original repos · equal weight · source only</text>',
         '<rect x="22" y="68" width="404" height="10" rx="5" fill="#eef0f3"/>',
     ]
     cursor = 22.0
@@ -135,7 +169,7 @@ def main() -> None:
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     if not OUTPUT.exists() or OUTPUT.read_text(encoding="utf-8") != svg:
         OUTPUT.write_text(svg, encoding="utf-8")
-    print(f"Updated {OUTPUT}: {included} original repositories; " +
+    print(f"Updated {OUTPUT}: {included} recent original repositories; " +
           ", ".join(f"{k}={v:.2f}%" for k, v in sorted(scores.items(), key=lambda x: -x[1])[:8]))
 
 if __name__ == "__main__":
