@@ -10,6 +10,17 @@
 
 ---
 
+### GitHub stats
+
+<p align="center">
+  <a href="https://github.com/sguzman">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=sguzman" alt="Salvador's GitHub stats" />
+  </a>
+  <a href="https://github.com/sguzman">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sguzman&amp;layout=compact&amp;langs_count=8&amp;card_width=320" alt="Salvador's most used languages" />
+  </a>
+</p>
+
 ### Hello, I'm Salvador.
 
 I build tools that make the computer feel more like an **instrument** and less like an obstacle. My work ranges from tiny, fast desktop utilities to ambitious systems for reading, preserving, organizing, and manipulating information.
