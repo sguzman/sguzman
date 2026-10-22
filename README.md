@@ -17,7 +17,7 @@
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=sguzman" alt="Salvador's GitHub stats" />
   </a>
   <a href="https://github.com/sguzman">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sguzman&amp;layout=compact&amp;langs_count=8&amp;card_width=320" alt="Salvador's most used languages" />
+    <img height="200" align="center" src="./assets/featured-languages.svg" alt="Languages across Salvador's featured original projects, weighted equally by repository" />
   </a>
 </p>
 
