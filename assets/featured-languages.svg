@@ -4,32 +4,32 @@
 <text x="22" y="31" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#2675d8">Languages in recent projects</text>
 <text x="22" y="53" font-family="Arial,Helvetica,sans-serif" font-size="11" fill="#576274">100 recent original repos · equal weight · source only</text>
 <rect x="22" y="68" width="404" height="10" rx="5" fill="#eef0f3"/>
-<rect x="22.00" y="68" width="254.68" height="10" fill="#dea584"/>
-<rect x="276.68" y="68" width="58.42" height="10" fill="#f1e05a"/>
-<rect x="335.11" y="68" width="44.47" height="10" fill="#3572a5"/>
-<rect x="379.58" y="68" width="19.43" height="10" fill="#e34c26"/>
-<rect x="399.02" y="68" width="8.90" height="10" fill="#89e051"/>
-<rect x="407.92" y="68" width="7.48" height="10" fill="#3178c6"/>
-<rect x="415.40" y="68" width="6.48" height="10" fill="#563d7c"/>
-<rect x="421.88" y="68" width="2.96" height="10" fill="#555555"/>
-<rect x="424.85" y="68" width="0.33" height="10" fill="#00add8"/>
-<rect x="425.17" y="68" width="0.32" height="10" fill="#000080"/>
-<rect x="425.49" y="68" width="0.32" height="10" fill="#f34b7d"/>
-<rect x="425.81" y="68" width="0.16" height="10" fill="#718096"/>
+<rect x="22.00" y="68" width="250.29" height="10" fill="#dea584"/>
+<rect x="272.29" y="68" width="58.00" height="10" fill="#f1e05a"/>
+<rect x="330.29" y="68" width="48.34" height="10" fill="#3572a5"/>
+<rect x="378.63" y="68" width="21.18" height="10" fill="#e34c26"/>
+<rect x="399.80" y="68" width="9.43" height="10" fill="#89e051"/>
+<rect x="409.23" y="68" width="7.48" height="10" fill="#3178c6"/>
+<rect x="416.71" y="68" width="5.29" height="10" fill="#563d7c"/>
+<rect x="421.99" y="68" width="2.96" height="10" fill="#555555"/>
+<rect x="424.96" y="68" width="0.33" height="10" fill="#00add8"/>
+<rect x="425.28" y="68" width="0.32" height="10" fill="#f34b7d"/>
+<rect x="425.60" y="68" width="0.26" height="10" fill="#000080"/>
+<rect x="425.86" y="68" width="0.11" height="10" fill="#718096"/>
 <circle cx="26" cy="104" r="4" fill="#dea584"/>
-<text x="36" y="108" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#354052">Rust 63.04%</text>
+<text x="36" y="108" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#354052">Rust 61.95%</text>
 <circle cx="26" cy="129" r="4" fill="#f1e05a"/>
-<text x="36" y="133" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#354052">JavaScript 14.46%</text>
+<text x="36" y="133" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#354052">JavaScript 14.36%</text>
 <circle cx="26" cy="154" r="4" fill="#3572a5"/>
-<text x="36" y="158" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#354052">Python 11.01%</text>
+<text x="36" y="158" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#354052">Python 11.96%</text>
 <circle cx="26" cy="179" r="4" fill="#e34c26"/>
-<text x="36" y="183" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#354052">HTML 4.81%</text>
+<text x="36" y="183" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#354052">HTML 5.24%</text>
 <circle cx="237" cy="104" r="4" fill="#89e051"/>
-<text x="247" y="108" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#354052">Shell 2.20%</text>
+<text x="247" y="108" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#354052">Shell 2.33%</text>
 <circle cx="237" cy="129" r="4" fill="#3178c6"/>
 <text x="247" y="133" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#354052">TypeScript 1.85%</text>
 <circle cx="237" cy="154" r="4" fill="#563d7c"/>
-<text x="247" y="158" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#354052">CSS 1.60%</text>
+<text x="247" y="158" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#354052">CSS 1.31%</text>
 <circle cx="237" cy="179" r="4" fill="#555555"/>
 <text x="247" y="183" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#354052">C 0.73%</text>
 </svg>
