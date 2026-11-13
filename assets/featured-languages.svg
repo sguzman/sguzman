@@ -4,12 +4,12 @@
 <text x="22" y="31" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#2675d8">Languages in recent projects</text>
 <text x="22" y="53" font-family="Arial,Helvetica,sans-serif" font-size="11" fill="#576274">100 recent original repos · equal weight · source only</text>
 <rect x="22" y="68" width="404" height="10" rx="5" fill="#eef0f3"/>
-<rect x="22.00" y="68" width="243.53" height="10" fill="#dea584"/>
-<rect x="265.53" y="68" width="62.89" height="10" fill="#f1e05a"/>
-<rect x="328.42" y="68" width="49.15" height="10" fill="#3572a5"/>
-<rect x="377.57" y="68" width="22.89" height="10" fill="#e34c26"/>
-<rect x="400.46" y="68" width="10.24" height="10" fill="#89e051"/>
-<rect x="410.70" y="68" width="5.96" height="10" fill="#563d7c"/>
+<rect x="22.00" y="68" width="243.30" height="10" fill="#dea584"/>
+<rect x="265.30" y="68" width="63.15" height="10" fill="#f1e05a"/>
+<rect x="328.44" y="68" width="49.15" height="10" fill="#3572a5"/>
+<rect x="377.59" y="68" width="22.82" height="10" fill="#e34c26"/>
+<rect x="400.41" y="68" width="10.24" height="10" fill="#89e051"/>
+<rect x="410.65" y="68" width="6.01" height="10" fill="#563d7c"/>
 <rect x="416.66" y="68" width="5.20" height="10" fill="#3178c6"/>
 <rect x="421.86" y="68" width="2.98" height="10" fill="#555555"/>
 <rect x="424.83" y="68" width="0.35" height="10" fill="#00add8"/>
@@ -17,17 +17,17 @@
 <rect x="425.50" y="68" width="0.26" height="10" fill="#000080"/>
 <rect x="425.76" y="68" width="0.21" height="10" fill="#718096"/>
 <circle cx="26" cy="104" r="4" fill="#dea584"/>
-<text x="36" y="108" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#354052">Rust 60.28%</text>
+<text x="36" y="108" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#354052">Rust 60.22%</text>
 <circle cx="26" cy="129" r="4" fill="#f1e05a"/>
-<text x="36" y="133" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#354052">JavaScript 15.57%</text>
+<text x="36" y="133" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#354052">JavaScript 15.63%</text>
 <circle cx="26" cy="154" r="4" fill="#3572a5"/>
 <text x="36" y="158" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#354052">Python 12.17%</text>
 <circle cx="26" cy="179" r="4" fill="#e34c26"/>
-<text x="36" y="183" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#354052">HTML 5.67%</text>
+<text x="36" y="183" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#354052">HTML 5.65%</text>
 <circle cx="237" cy="104" r="4" fill="#89e051"/>
 <text x="247" y="108" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#354052">Shell 2.53%</text>
 <circle cx="237" cy="129" r="4" fill="#563d7c"/>
-<text x="247" y="133" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#354052">CSS 1.48%</text>
+<text x="247" y="133" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#354052">CSS 1.49%</text>
 <circle cx="237" cy="154" r="4" fill="#3178c6"/>
 <text x="247" y="158" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#354052">TypeScript 1.29%</text>
 <circle cx="237" cy="179" r="4" fill="#555555"/>
